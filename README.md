@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Lewis Wood
-
 Recent Computer Science graduate from the University of Western Australia, currently working as an AI & Automation Specialist. I build intelligent systems, automate business workflows, and enjoy creating web experiences.
 
-## Tech I work with:
-Python • JavaScript • AI Agents • Machine Learning • Business Automation • Web Development
+I build with Python, JavaScript, AI Agents, Business Automation software and Web Development
