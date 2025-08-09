@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Recent Computer Science graduate from the University of Western Australia, currently working as an AI & Automation Specialist. I build intelligent systems, automate business workflows, and enjoy creating web experiences.
+Recent Computer Science graduate from the University of Western Australia, currently working as an AI & Automation Specialist.
+
+I build intelligent systems, automate business workflows, and enjoy creating web experiences.
 
 I build with Python, JavaScript, AI Agents, Business Automation software and Web Development
