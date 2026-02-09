@@ -1,4 +1,4 @@
-## Hey, I'm Lewis 👋
+## Hey, I'm Lewis
 
 <!--
 **fushipanda/fushipanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Recent Computer Science graduate from the University of Western Australia, currently working as an AI & Automation Specialist.
-
-I build intelligent systems, automate business workflows, and enjoy creating web experiences.
-
-I build with Python, JavaScript, AI Agents, Business Automation software and Web Development
+A developer interested in linux tooling, AI, automation, backend and improving developer workflows. Currently deep diving into Arch and tinkering with CLI tools.
