@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A developer interested in linux tooling, AI, automation, backend and improving developer workflows. Currently deep diving into Arch and tinkering with CLI tools.
+A developer interested in linux tooling, AI, automation, backend and improving developer workflows. Currently deep diving into Arch, tinkering with CLI tools and self-hosting.
